@@ -20,6 +20,6 @@
 <div align="center">
 <p align="center">
   <a href="" rel="noopener">
- <img width=900px  src="./demo-plataforma-de-cursos.gif" alt="Project logo"></a>
+ <img width=900px  src="images/DEMO.gif" alt="Project logo"></a>
 </p>
 </div>
