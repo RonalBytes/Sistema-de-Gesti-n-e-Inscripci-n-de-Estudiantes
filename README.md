@@ -12,7 +12,7 @@
 
 <p>"Este repositorio contiene una plataforma web para la gestión de inscripciones de estudiantes en un instituto de Perú, desarrollada bajo la gestión exclusiva de la empresa. Como encargado del desarrollo, implementé funcionalidades clave para simplificar y automatizar el proceso de inscripción, mejorando la eficiencia administrativa y la experiencia del usuario.
 
-La plataforma está construida con PHP, HTML, CSS y JavaScript, utilizando phpMyAdmin para la gestión de la base de datos. Entre sus características destacan la autenticación de usuarios, la gestión de perfiles, el registro y seguimiento de inscripciones, y herramientas para la administración académica."
+La plataforma está construida con PHP, HTML, CSS y JavaScript, utilizando phpMyAdmin para la gestión de la base de datos. Entre sus características destacan la autenticación de usuarios, la gestión de perfiles, el registro y seguimiento de inscripciones, Reportes en pdf y herramientas para la administración académica."
 
 ## 🥇 DEMO 🥇 <a name="-demo--"></a>
 
